@@ -29,4 +29,12 @@ Fetch only the pages I actually need.
 4. to run scrap code : python book.py
 5. to load csv file too ssms by python : python loading_to_ssms.py
 
+<img width="1486" height="822" alt="image" src="https://github.com/user-attachments/assets/49433648-30d1-4256-b94b-46b55fedde23" />
+<img width="873" height="536" alt="image" src="https://github.com/user-attachments/assets/623d440b-e06a-4247-82d7-2dd206b1d2ab" />
+
+
+<img width="1535" height="817" alt="image" src="https://github.com/user-attachments/assets/5ac13c30-f1c0-4aad-ae0a-da5280799447" />
+<img width="1373" height="703" alt="image" src="https://github.com/user-attachments/assets/3e3052e9-7def-44df-acfa-54f53687477f" />
+
+
    
