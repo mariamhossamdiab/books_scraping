@@ -1,7 +1,7 @@
 # books_scraping
 ## What broke, or took longer than you expected?
 
-The web scraping and data cleaning took longer than expected because some fields required additional processing and validation. I also had to make sure that the scraped values, especially price, rating, and stock status, were correctly extracted and converted into appropriate data types before loading them into SQL. Debugging and validating the scraped data was the main part that took extra time.
+The web scraping and data cleaning took longer than expected because some fields required additional processing and validation. I also had to make sure that the scraped values, especially price, rating, and stock status, were correctly extracted and converted into appropriate data types before loading them into SQL. I  also handled if the table in data base was created just append data to it and remove duplicates , Debugging and validating the scraped data was the main part that took extra time.
 
 
 ## If the site started blocking you after 50 requests, what would
