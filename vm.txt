@@ -1,0 +1,4 @@
+PS E:\Users\ALNOUR-320\Downloads\task> python -m venv .venv
+PS E:\Users\ALNOUR-320\Downloads\task> .venv\Scripts\Activate.ps1
+(.venv) PS E:\Users\ALNOUR-320\Downloads\task> 
+(.venv) PS E:\Users\ALNOUR-320\Downloads\task> python -m pip install -r requirements.txt
