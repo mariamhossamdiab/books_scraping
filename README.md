@@ -20,7 +20,7 @@ Fetch only the pages I actually need.
 
 6. Make the job resumable. Save progress in batches (e.g. 40 requests, then pause), so a block or crash doesn't force me to start over.
    
-7. rotate proxies
+7. change driver .
 ## How to run code : 
 1. create vm by this command : python -m venv .venv
 
@@ -29,4 +29,4 @@ Fetch only the pages I actually need.
 4. to run scrap code : python book.py
 5. to load csv file too ssms by python : python loading_to_ssms.py
 
-6. 
+   
